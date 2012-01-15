@@ -1,0 +1,8 @@
+Features: Counts the number of pageviews your website gets and displays it as 'x users served'.
+
+Installation:
+
+1.Download the plugin and unzip it.
+2.Upload hits.txt to your parent directory (http://example.com/hits.txt)
+3.Upload the hitcounter folder to your plugins folder
+4.Enable it under Admin->layout
